@@ -31,9 +31,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-me&show_icons=true&locale=en&layout=compact" alt="rabbi-me" /></p>
+
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rabbi-me\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-me&" alt="rabbi-me" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-me&show_icons=true&locale=en&layout=compact" alt="rabbi-me" /></p>
