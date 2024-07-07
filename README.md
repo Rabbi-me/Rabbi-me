@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rabbi-me&label=Profile%20views&color=0e75b6&style=flat" alt="rabbi-me" /> </p>
+
 
 ![I am Laravel Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/447785041_1126581598606331_1352901631631881763_n.jpg?stp=dst-jpg_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFO2cfS6XzlOC1lHKniy_KUnXWHFuigwDOddYcW6KDAM32dACL1egNxOrmdFX_WG8bE-wpthM8SFYLteLVturYP&_nc_ohc=eCj7vSbGSG4Q7kNvgHpx1S5&_nc_ht=scontent.fdac27-1.fna&oh=00_AYBcYe63_WBNEFMQkRihma6ifrrqqQqdcC6LetpyzVdSog&oe=66909609)
 
@@ -6,8 +6,8 @@
 <h1 align="center">I'm Rabbi</h1>
 <h4 align="center">A passionate developer from Bangladesh</h4>
 </br>
-</br>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rabbi-me&label=Profile%20views&color=0e75b6&style=flat" alt="rabbi-me" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabbi-me" alt="rabbi-me" /></a> </p>
 
@@ -32,7 +32,7 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <h3 align="left">Github Statics:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-me&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="rabbi-me" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-me&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="rabbi-me" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbi-me&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="rabbi-me" /></p>
 
