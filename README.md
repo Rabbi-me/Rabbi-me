@@ -31,13 +31,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbi-me)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbi-me&show_icons=true&locale=en&layout=compact" alt="rabbi-me" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbi-me&show_icons=true)  
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rabbi-me\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/rabbi-me/contributions?format=svg&private=false)  
-
-![GitHub metrics](https://metrics.lecoq.io/rabbi-me)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rabbi-me)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbi-me&" alt="rabbi-me" /></p>
 
